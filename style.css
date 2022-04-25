@@ -200,3 +200,67 @@ button {
 }
 
 
+/* Expertise*/
+
+.expertise {
+
+   
+    width: 100%;   
+    
+
+}
+
+.expertise_container {
+
+    margin: 60px auto;
+    width: 50%;
+
+}
+
+.expertise_head {
+    text-align: center;
+
+}
+
+.expertise_head h1 {
+    text-transform: uppercase;
+    font-weight: 300;
+    line-height: 1.4;
+}
+
+table {}
+
+table,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-top: 60px;
+
+
+
+}
+
+td {
+    text-align: center;
+
+}
+
+td h2 {
+    font-weight: 200;
+    line-height: 1;
+    margin-top: 40px;
+    text-transform: uppercase;
+    font-size: 25px;
+}
+
+td p {
+    margin-top: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+
+td img {
+    margin-top: 30px;
+}
+
