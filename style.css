@@ -425,3 +425,131 @@ td img {
 
 }
 
+
+/* Footer Section*/
+.footer
+{
+    background-image: url(./design-assets/bgk-footer.png);
+    background-position: center;
+    background-size: cover;
+    height: 50vh;
+    width: 100%;
+}
+
+.footer_container{
+  
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: auto;
+    width: 80%;
+}
+.footer_logo{
+    display: flex;
+  
+    
+  
+    
+  
+}
+.footer_logo  h2{
+    color: white;
+    margin-top: 10px;
+    margin-left: 10px;
+    
+}
+.logo_wrapper{
+    
+    margin-top: 50px;
+    width: 20%;
+  
+    
+}
+
+.logo_wrapper p{
+    color: white;
+    text-align: left;
+    margin-top: 20px;
+   
+    
+
+    }
+.footer_contact {
+  
+    margin-top: 20px;
+    
+    
+}
+
+.map{
+ display: flex;
+
+    
+}
+.map img{
+    margin-right: 10px;
+}
+.phone{
+    display: flex;
+       
+   }
+   .phone img{
+       margin-right: 10px;
+   }
+
+.footer_contact h3{
+    color: white;
+    margin-bottom: 20px;
+    padding-top: 20px;
+}
+.footer_contact p{
+    color: white;
+}
+.footer_social{
+
+  
+    margin-top: 20px;
+    
+
+
+}
+.footer_social h3{
+    color: white;
+    margin-bottom: 10px;
+    padding-top: 10px;
+
+}
+.footer_social input{
+    height: 30px;
+    text-align: center;
+    padding: 20px;
+
+}
+
+.footer_social .paper{
+    background-color: white;
+    height: 30px;
+    width: 30px;
+}
+
+.social_media_logo{
+    margin-top: 20px;
+}
+
+.help_container{
+    display: flex;
+    justify-content: space-around;
+
+}
+.footer_help h4{
+    display: inline-block;
+    margin-top: 40px;
+    margin-left: 40px;
+    color: white;
+}
+.copyright{
+    margin-top: 40px;
+    margin-left: 40px;
+    color: white;
+}
+
