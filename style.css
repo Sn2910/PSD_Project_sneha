@@ -363,3 +363,65 @@ td img {
 
 }
 
+
+/*Contact Section*/
+.contact {
+   
+    width: 100%;
+}
+
+.contact_container {
+
+    display: flex;
+
+    width: 56%;
+    margin: 60px auto;
+}
+
+.user_info {
+    margin-left: 100px;
+}
+
+.user_info h2 {
+    text-transform: uppercase;
+}
+
+.user_info input {
+    display: block;
+    width: 320px;
+    height: 30px;
+    margin-top: 20px;
+
+
+}
+
+.user_info textarea {
+    margin-top: 20px;
+}
+
+.submit {
+    margin-top: 20px;
+    height: 20px;
+    padding-top: 8px;
+}
+
+.logo_shop {
+    
+    margin-left: 300px;
+
+
+}
+
+.logo_shop img {
+    margin: 20px 50px;
+    width: 70px;
+
+}
+
+.logo_shop h2 {
+
+    text-transform: uppercase;
+    margin-left: 35px;
+
+}
+
