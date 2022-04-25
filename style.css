@@ -123,3 +123,43 @@ button {
     margin: 15px auto;
     text-transform: uppercase;
 }
+
+/* Story Section*/
+
+.story_section {
+    background-color: white;
+    min-height: 50vh;
+    width: 100%;
+   
+
+}
+
+.story_container {
+    display: flex;
+    margin: 50px auto;
+    
+    margin: 80px auto;
+    width: 55%;
+}
+
+.story_para {
+    margin-left: 150px;
+    width: 80%;
+
+
+
+
+}
+
+.story_para h1 {
+    text-transform: uppercase;
+    font-weight: 300;
+
+}
+
+.story_para p {
+    margin-top: 20px;
+    color: gray;
+
+}
+
