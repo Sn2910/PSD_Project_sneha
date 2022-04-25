@@ -1,0 +1,125 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Playfair Display';
+}
+
+/*Header Section*/
+
+.header {
+    min-height: 80vh;
+    width: 100%;
+    background-image: url(./design-assets/bgk-header.png);
+    background-position: center;
+    background-size: cover;
+
+}
+
+.container {
+    max-width: 1200px;
+    margin:auto;
+    border: 1px solid red;
+ 
+   
+
+}
+
+.wrapper {
+ display: flex;
+ justify-content: space-between;
+ 
+  
+    
+}
+
+.logo {
+    display: flex;
+
+}
+
+.logo img {
+    width: 35px;
+    height: 35px;
+
+
+}
+
+.logo h2 {
+    color: white;
+    margin-left: 10px;
+    font-size: 30px;
+    margin-top: 2px;
+
+}
+
+.navbar {
+
+    margin-top: 5px;
+
+}
+
+.navbar ul {
+    margin-top: 5px;
+}
+
+
+.navbar ul li {
+    display: inline-block;
+    margin-left: 20px;
+
+
+
+}
+
+.navbar ul li a {
+    text-decoration: none;
+    color: rgba(42, 213, 236, 0.849);
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 200;
+}
+
+.content {
+
+    text-align: center;
+    margin-top: 220px;
+
+
+}
+
+.content h2 {
+    font-family: 'Playfair Display';
+    color: white;
+    letter-spacing: 0.5px;
+    font-size: 45px;
+    font-weight: 300;
+}
+
+.content p {
+    margin-top: 50px;
+    color: white;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+button {
+    color: rgba(42, 213, 236, 0.849);
+    border: 2px solid rgba(42, 213, 236, 0.849);
+    margin: 80px auto;
+    padding: 20px;
+    border-radius: 2px;
+    background: transparent;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+
+}
+
+.line {
+    border: 0.5px solid rgba(42, 213, 236, 0.849);
+    width: 5%;
+    margin: 15px auto;
+    text-transform: uppercase;
+}
