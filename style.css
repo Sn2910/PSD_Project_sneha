@@ -264,3 +264,102 @@ td img {
     margin-top: 30px;
 }
 
+
+
+/*team section*/
+
+.team_section {
+    
+    width: 100%;
+    background-image: url(./design-assets/bgk-header.png);
+    background-position: center;
+    background-size: cover;
+   
+}
+
+.team_container {
+    max-width: 1000px;
+    margin:auto;
+  
+ 
+
+}
+
+.team_container p {
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+.team_head {
+    text-align: center;
+   
+}
+
+.team_head h1 {
+    color: white;
+    font-weight: 300;
+
+}
+
+.team_head p {
+    color: white;
+    margin-top: 5px;
+
+}
+
+
+.box_1,
+.box_2,
+.box_3,
+.box_4 {
+    color: white;
+    width: 250px;
+    height: 50px;
+    border: 0.5px solid white;
+    margin-left: 20px;
+    text-align: center;
+    padding-top: 10px;
+
+
+}
+
+.box_container1 {
+
+    display: flex;
+    justify-content: spa;
+    align-items: center;
+
+
+}
+
+.box_5,
+.box_6,
+.box_7,
+.box_8 {
+    background-color: white;
+    width: 250px;
+    height: 250px;
+    margin-left: 20px;
+
+}
+
+.container_2 {
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 50px;
+
+
+
+}
+
+.hire_button {
+    margin-left: 430px;
+    margin-top: 20px;
+
+
+}
+
